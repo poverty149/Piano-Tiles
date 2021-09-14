@@ -1,0 +1,112 @@
+body{
+    text-align: center;
+    color:cornsilk;
+    background-color: black;
+    
+
+}
+h1{
+    font: italic;
+    font-family: cursive;
+}
+footer{
+    margin-top: 25%;
+    font-family: monospace;
+    font-size: small;
+}
+.one{
+    /*margin: 100px;*/
+    /* L shaped button*/
+    margin-top: 100px;
+    width:50px;
+    height:200px;
+    
+    border-bottom: 110px solid white;
+    border-left: 30px solid white;
+    background-color:black;
+    color:white
+   
+   
+}
+.pressed {
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+  }
+.button{}
+button :hover{
+
+}
+.two{
+    /*reverse L shaped button*/
+    margin-top: 100px;
+    width:50px;
+    height:200px;
+    
+    border-bottom: 110px solid white;
+    border-right: 30px solid white;
+    background-color:black;
+    color:white;
+    
+   
+}
+.three{
+    margin-top: 100px;
+    width:45px;
+    height:150px;
+    
+   
+    background-color:black;
+    color:white
+}
+
+
+.four{
+    width:40px;
+    height:120px;
+    /*border-top: 50px solid black;*/
+    position: absolute;
+
+    background-color:white;
+   
+}
+.c{
+
+}
+.cd{
+    margin-left: -25px;
+    position:absolute;
+}
+.d{
+
+}
+.de{
+    margin-left: -22.5px;
+    position: absolute;
+}
+.e{
+
+}
+.f{
+
+}
+.fg{
+    margin-left: -25px;
+    position:absolute;
+}
+.g{
+
+}
+.ga{
+    margin-left: -22.5px;
+    position: absolute;
+}
+.a{
+
+}
+.ab{
+    margin-left: -22.5px;
+    position: absolute;
+}
+.b{
+
+}
